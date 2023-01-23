@@ -4,7 +4,7 @@
 
 <br>
 
-- Desenvolverdor Web
+- Desenvolvedor Web
 - Bacharel em Ciência da Computação
 - Sempre em busca de aperfeiçoar nas tecnologias que utilizo no dia-a-dia
 
